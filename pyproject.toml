@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "Python Examples"
 version = "0.1.0"
-description = ""
+description = "Lessons for financial widgets with Dash framework and plotly"
 authors = ["Sergey Kikevich <sergey@rostsber.ru>"]
 
 [tool.poetry.dependencies]
