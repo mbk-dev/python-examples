@@ -8,6 +8,7 @@ authors = ["Sergey Kikevich <sergey@rostsber.ru>"]
 python = "^3.9"
 okama = "^1.2.3"
 dash = "^2.0.0"
+dash-daq = "^0.5.0"
 
 [build-system]
 requires = ["poetry-core"]
